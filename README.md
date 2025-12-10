@@ -1,5 +1,5 @@
 # Braverse TCG
-Explore <b>CookieRun Braverse</b> Cards with this Android application.<br>
+Explore <b>CookieRun Braverse</b> Cards with this Android application.<br><br>
 This app is a mobile-enhanced version of the official card list from https://cookierunbraverse.com/en/cardList, with additional features for filtering.
 
 ### What's new
@@ -30,9 +30,7 @@ https://github.com/r-delacosta/braverse-tcg/releases
     - The app requires an internet connection to fetch data from the official CookieRun website.
     - Offline support may be added in future releases, but there is no target rollout date.
 - Why do filtered results seem inaccurate at times?
-    - All card data are pulled directly from the CookieRun website. That means using the same filters on both platforms will return the same results.
+    - All card data are pulled directly from the CookieRun website. That means using the same filters on both platforms will return the same results. If you notice any inaccuracy, please report a ticket (refer to Bugs section below)
  
 ### Bugs
-- Known Bugs:
-    - Occasional auto-scrolling to top when going back from the card viewer
 - To report a bug, create a ticket in https://github.com/r-delacosta/braverse-tcg/issues
