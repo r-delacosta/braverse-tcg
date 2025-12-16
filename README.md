@@ -19,8 +19,9 @@ https://github.com/r-delacosta/braverse-tcg/releases
 <img width="480" height="1067" alt="Screenshot_20251210_155910" src="https://github.com/user-attachments/assets/6bf8354e-8fbd-4658-815f-875e13143245" />
 <img width="480" height="1067" alt="Screenshot_20251210_160034" src="https://github.com/user-attachments/assets/ffb95dc2-4548-4e73-9431-cfad77d9253e" />
 
-### Card Viewer
-[card viewer.webm](https://github.com/user-attachments/assets/dec549a2-bd0e-4dec-bb26-f8893b67713c)
+[scroll.webm](https://github.com/user-attachments/assets/044c31d2-9a71-4e12-8928-e2d6b105146b)
+
+[card viewer.webm](https://github.com/user-attachments/assets/bc06a3a1-4160-4543-bee1-ba9a2444eeb1)
 
 ### FAQ
 
