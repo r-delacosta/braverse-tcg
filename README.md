@@ -33,5 +33,6 @@ https://github.com/r-delacosta/braverse-tcg/releases
 - Why do filtered results seem inaccurate at times?
     - All card data are pulled directly from the CookieRun website. That means using the same filters on both platforms will return the same results. If you notice any inaccuracy, please report a ticket (refer to Bugs section below)
  
-### Bugs
-- To report a bug, create a ticket in https://github.com/r-delacosta/braverse-tcg/issues
+### Bugs and Feedback
+- If you encounter any bugs or have suggestions to improve the app, please open an issue on the Issues page:<br>
+https://github.com/r-delacosta/braverse-tcg/issues
