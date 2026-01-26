@@ -5,7 +5,7 @@ This app is a mobile-enhanced version of the official card list from https://coo
 ### How to Install (Android only)
 1. Go to the Releases page:<br>
 https://github.com/r-delacosta/braverse-tcg/releases
-2. Download the latest .apk file.
+2. Download the latest .apk file (choose depending on your region: Asia, Korea, or North America).
 3. Open the downloaded file on your Android device.
 4. If prompted, allow installation from unknown sources.
 5. Launch the app and start exploring cards!
