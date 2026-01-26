@@ -26,7 +26,7 @@ https://github.com/r-delacosta/braverse-tcg/releases
     - The app requires an internet connection to fetch data from the official CookieRun website.
     - Offline support may be added in future releases, but there is no target rollout date.
 - Why do filtered results seem inaccurate at times?
-    - All card data are pulled directly from the CookieRun website. That means using the same filters on both platforms will return the same results. If you notice any inaccuracy, please report a ticket (refer to Bugs section below)
+    - All card data are pulled directly from the CookieRun website. There may be unclean data which can lead to inaccurate results. If you notice any inaccuracy, please report a ticket (refer to Bugs section below)
  
 ### Bugs and Feedback
 - If you encounter any bugs or have suggestions to improve the app, please open an issue on the Issues page:<br>
