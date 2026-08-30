@@ -1,6 +1,14 @@
 # Braverse TCG
+
 Explore <b>CookieRun Braverse</b> Cards with this Android application.<br><br>
 This app is a mobile-enhanced version of the official card list from https://cookierunbraverse.com/en/cardList
+
+## Hitseekr Price Integration
+
+View real-time pricing data from Hitseekr
+
+<img width="360" height="800" alt="Screenshot_20260830_203500" src="https://github.com/user-attachments/assets/11f5f817-2ff4-48eb-904c-240964c807d5" />
+
 
 ### How to Install (Android only)
 1. Go to the Releases page:<br>
